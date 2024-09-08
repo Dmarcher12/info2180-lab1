@@ -19,6 +19,8 @@
  </main>
  <footer>
  <p>Copyright &copy; 2020 <Dana Archer>.</p>
+ <img src="pic.jpeg" alt="Artist">
+
  </footer>
 </body>
 </html>
